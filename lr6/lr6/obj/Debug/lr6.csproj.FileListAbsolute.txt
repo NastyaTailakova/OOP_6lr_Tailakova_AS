@@ -1,0 +1,10 @@
+D:\oop\6lr\lr6\lr6\bin\Debug\lr6.exe.config
+D:\oop\6lr\lr6\lr6\bin\Debug\lr6.exe
+D:\oop\6lr\lr6\lr6\bin\Debug\lr6.pdb
+D:\oop\6lr\lr6\lr6\obj\Debug\lr6.csproj.AssemblyReference.cache
+D:\oop\6lr\lr6\lr6\obj\Debug\lr6.Form1.resources
+D:\oop\6lr\lr6\lr6\obj\Debug\lr6.Properties.Resources.resources
+D:\oop\6lr\lr6\lr6\obj\Debug\lr6.csproj.GenerateResource.cache
+D:\oop\6lr\lr6\lr6\obj\Debug\lr6.csproj.CoreCompileInputs.cache
+D:\oop\6lr\lr6\lr6\obj\Debug\lr6.exe
+D:\oop\6lr\lr6\lr6\obj\Debug\lr6.pdb
